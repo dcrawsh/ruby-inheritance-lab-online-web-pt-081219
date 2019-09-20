@@ -1,7 +1,7 @@
 class Student < User
 
 def initialize 
-@@all = Array.new 
+@@knowledge = Array.new 
 end 
 
 def learn 
